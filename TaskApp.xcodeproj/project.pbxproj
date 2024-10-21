@@ -15,6 +15,7 @@
 		EA5F7C352CBE524E00D7C6C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA5F7C342CBE524E00D7C6C3 /* Assets.xcassets */; };
 		EA5F7C382CBE524E00D7C6C3 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EA5F7C372CBE524E00D7C6C3 /* Base */; };
 		EA9E38EC2CBE5EEC0069BE85 /* InputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9E38EB2CBE5EEC0069BE85 /* InputViewController.swift */; };
+		EA9E38EE2CBFB65C0069BE85 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9E38ED2CBFB65C0069BE85 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		EA5F7C372CBE524E00D7C6C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA5F7C392CBE524E00D7C6C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EA9E38EB2CBE5EEC0069BE85 /* InputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
+		EA9E38ED2CBFB65C0069BE85 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				EA5F7C312CBE524D00D7C6C3 /* Main.storyboard */,
 				EA5F7C342CBE524E00D7C6C3 /* Assets.xcassets */,
 				EA5F7C362CBE524E00D7C6C3 /* LaunchScreen.storyboard */,
+				EA9E38ED2CBFB65C0069BE85 /* Task.swift */,
 				EA5F7C392CBE524E00D7C6C3 /* Info.plist */,
 			);
 			path = TaskApp;
@@ -211,6 +214,7 @@
 			files = (
 				EA5F7C302CBE524D00D7C6C3 /* ViewController.swift in Sources */,
 				EA5F7C2C2CBE524D00D7C6C3 /* AppDelegate.swift in Sources */,
+				EA9E38EE2CBFB65C0069BE85 /* Task.swift in Sources */,
 				EA5F7C2E2CBE524D00D7C6C3 /* SceneDelegate.swift in Sources */,
 				EA9E38EC2CBE5EEC0069BE85 /* InputViewController.swift in Sources */,
 			);
